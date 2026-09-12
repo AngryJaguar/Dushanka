@@ -1,0 +1,109 @@
+{
+  "personal": {
+    "name": "Dushanka Tara Khanna",
+    "title": "MTTM Part-I Student | Aspiring Business Professional",
+    "location": "Goa, India",
+    "email": "dushanka.t.khanna@gmail.com",
+    "phone": "+91 84474 87875",
+    "profileImage": "https://via.placeholder.com/180",
+    "resume": "#",
+    "about": "I am a first-year student in Masters in Tourism & Travel Management, interested in Tourism business, marketing, finance, entrepreneurship and technology. I enjoy learning new skills, working on practical projects and exploring opportunities that help me grow professionally."
+  },
+
+  "socials": {
+    "linkedin": "https://linkedin.com/in/dushankatarakhanna",
+    "github": "https://github.com/AngryJaguar",
+    "instagram": "https://instagram.com/_dushanka.t.k_"
+  },
+
+  "education": [
+    {
+      "degree": "Masters in Tourism & Travel Management (MTTM)",
+      "institution": "DCTs Srinivassa Sinai Dempo College (Autonomous)",
+      "location": "Goa, India",
+      "duration": "2026 - 2028",
+      "description": "Currently pursuing my first year of MTTM with an interest in digital marketing, tourism, and entrepreneurship."
+    },
+    {
+      "degree": "Bachelors of Commerce (B.Com) in Business Management",
+      "institution": "DCTs Srinivassa Sinai Dempo College of Commerce & Economics",
+      "location": "Goa, India",
+      "duration": "2023 - 2026",
+      "description": "Completed B.com in Business Management."
+    }
+    {
+      "degree": "Higher Secondary Education",
+      "institution": "SunShine Worldwide School",
+      "location": "Goa, India",
+      "duration": "2021 - 2023",
+      "description": "Completed higher secondary education."
+    }
+  ],
+
+  "skills": [
+    "Communication",
+    "Microsoft Office",
+    "Canva",
+    "Presentation",
+    "Teamwork",
+    "Time Management",
+    "Basic Excel",
+    "Social Media"
+  ],
+
+  "interests": [
+    "Marketing",
+    "Entrepreneurship",
+    "Finance",
+    "Tourism"
+    "Business Strategy",
+    "Technology"
+  ],
+
+  "projects": [
+    {
+      "title": "Sustainable Tourism Business Idea",
+      "description": "Created a business concept and presented its target market, value proposition, marketing strategy and financial considerations.",
+      "technologies": ["Canva", "PowerPoint"],
+      "link": "#"
+    },
+    {
+      "title": "Market Research Project",
+      "description": "Conducted basic market research to understand customer preferences and identify potential business opportunities.",
+      "technologies": ["Google Forms", "Excel"],
+      "link": "#"
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "Introduction to Digital Marketing",
+      "issuer": "Placeholder Academy",
+      "year": "2026",
+      "link": "#"
+    },
+    {
+      "name": "Excel Fundamentals",
+      "issuer": "Placeholder Platform",
+      "year": "2026",
+      "link": "#"
+    }
+  ],
+
+  "achievements": [
+    {
+      "title": "College Presentation Competition",
+      "description": "Participated in an inter-college presentation competition.",
+      "year": "2026"
+    }
+  ],
+
+  "experience": [
+    {
+      "position": "Student Volunteer",
+      "organization": "College Event",
+      "duration": "2026",
+      "description": "Helped coordinate event activities, communicate with participants and manage basic event responsibilities."
+    }
+  ]
+}
